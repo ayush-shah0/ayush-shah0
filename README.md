@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush-shah0
 - 👀 I’m interested in everything coding!
-- 🌱 I’m currently learning R
+- 🌱 I’m currently interested in and learning Reinforcement Learning and Algorithmic Game Theory
 - 📫 How to reach me - ayushshah468@gmail.com
 
 <!---
