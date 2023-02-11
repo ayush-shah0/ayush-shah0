@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ayush..
-- 👀 I’m interested in everything coding!
-- 🌱 Currently interested in and learning Reinforcement Learning and Algorithmic Game Theory
-- 📫 Reach me at - ayushshah468@gmail.com
+I'm a seasoned Big Data professional with over three years of experience in leveraging GCP/AWS architecture to drive impactful results for clients. Here, you'll find projects showcasing my technical competence in BI tools, Python, R, and SQL
+
+[GMail](ayushshah468@gmail.com) || [LinkedIn](https://www.linkedin.com/in/ayushshah9/)
+
 
 <!---
 ayush-shah0/ayush-shah0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
